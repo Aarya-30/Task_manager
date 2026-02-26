@@ -1,3 +1,2 @@
-# task_manager
-
-A new Flutter project.
+#Task Manager App
+Flutter project
